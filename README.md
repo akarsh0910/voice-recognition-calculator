@@ -60,7 +60,7 @@ Tech Stack
 
 ---
 
-## Author
+## Created by-
    Akarsh Singh Sisoudia
 
 
