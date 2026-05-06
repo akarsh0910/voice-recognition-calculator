@@ -57,7 +57,7 @@ Tech Stack
 * Improved UI/UX animations
 * More language support
 * Advanced voice command handling
-
+* easy to use- fully control by voice command
 ---
 
 ## Created by-
