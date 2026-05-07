@@ -31,7 +31,6 @@ Currency Converter
 * Supports multiple currencies (USD, INR, EUR, etc.)
 * Swap currencies feature
 * Conversion history
-* Auto-updating exchange rates
 
 ---
 
